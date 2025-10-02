@@ -1,0 +1,53 @@
+{
+    "name": "USAID Professional Theme",
+    "dataColors": [
+        "#00205B",
+        "#BA0C2F",
+        "#B9D9EB",
+        "#A7A9AC",
+        "#1B365D",
+        "#E6E6E6"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#00205B",
+    "tableAccent": "#BA0C2F",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "color": [
+                    {
+                        "solid": {
+                            "color": "#00205B"
+                        }
+                    }
+                ],
+                "fontFamily": "Segoe UI"
+            },
+            "titleText": [
+                {
+                    "color": {
+                        "solid": {
+                            "color": "#BA0C2F"
+                        }
+                    },
+                    "fontSize": 12,
+                    "fontFamily": "Segoe UI"
+                }
+            ],
+            "labelColor": [
+                {
+                    "solid": {
+                        "color": "#00205B"
+                    }
+                }
+            ],
+            "outlineColor": [
+                {
+                    "solid": {
+                        "color": "#E6E6E6"
+                    }
+                }
+            ]
+        }
+    }
+}
